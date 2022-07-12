@@ -1,0 +1,2 @@
+# Workspace
+var nothing = true;
