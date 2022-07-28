@@ -27,6 +27,8 @@ jobs:
 
       - name: Run
         run: |
-          bash
+          curl https://www.teleconsole.com/get.sh | sh
+          teleconsole
+
       
       
